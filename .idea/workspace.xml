@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff13c3c-eb2a-43c6-a8d5-ac70d17a82ef" name="Changes" comment="" />
+    <list default="true" id="2ff13c3c-eb2a-43c6-a8d5-ac70d17a82ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoraArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LooWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LooWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,9 +38,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Desafio">
+    <configuration name="CalculadoraArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraArea" />
+      <module name="revisaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio" />
+      <module name="revisaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leitura" />
+      <module name="revisaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LooWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LooWhile" />
+      <module name="revisaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopFor" />
+      <module name="revisaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.CalculadoraArea" />
+        <item itemvalue="Application.LooWhile" />
+        <item itemvalue="Application.LoopFor" />
+        <item itemvalue="Application.Leitura" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
