@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ff13c3c-eb2a-43c6-a8d5-ac70d17a82ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/calculos/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/calculos/FiltroRecomendacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/modelo/Episodio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/modelo/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/modelo/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/modelo/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao2/principal/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao21/modelo/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao21/modelo/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao21/modelo/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao21/modelo/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisao21/principal/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revisao1/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revisao1/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revisao1/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revisao1/Leitura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,52 +49,70 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Desafio">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.revisao21.principal.Principal">
     <configuration name="CalculadoraArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculadoraArea" />
+      <option name="MAIN_CLASS_NAME" value="revisao1.CalculadoraArea" />
       <module name="revisaoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio" />
+      <option name="MAIN_CLASS_NAME" value="revisao1.Desafio" />
       <module name="revisaoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leitura" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="revisaoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LooWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LooWhile" />
+    <configuration name="Principal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revisao2.principal.Principal2" />
       <module name="revisaoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revisao2.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopFor" />
+    <configuration name="revisao21.principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revisao21.principal.Principal" />
       <module name="revisaoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revisao21.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.revisao21.principal.Principal" />
+        <item itemvalue="Application.Principal2" />
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.CalculadoraArea" />
-        <item itemvalue="Application.LooWhile" />
-        <item itemvalue="Application.LoopFor" />
-        <item itemvalue="Application.Leitura" />
       </list>
     </recent_temporary>
   </component>

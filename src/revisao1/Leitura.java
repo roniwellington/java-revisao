@@ -14,7 +14,7 @@ public class Leitura {
         double avaliacao = leitura.nextDouble();
         System.out.println("Nome do filme: "  + filme);
         System.out.println("Ano de lançamento: " + anoDeLancamento);
-        System.out.println("Sua avaliação para Filme: " + avaliacao);
+        System.out.println("Sua avaliação para revisao2.modelo.Filme: " + avaliacao);
 
     }
 }

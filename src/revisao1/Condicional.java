@@ -10,11 +10,11 @@ public class Condicional {
         if (anoDeLancamento >= 2022) {
             System.out.println("Lançamentos que os clientes estão curtindo!");
         } else {
-            System.out.println("Filme retrô que vale a pena assistir");
+            System.out.println("revisao2.modelo.Filme retrô que vale a pena assistir");
         }
 
         if (incluidoNoPlano || tipoPlano.equals("plus")) {
-            System.out.println("Filme liberado");
+            System.out.println("revisao2.modelo.Filme liberado");
         } else {
             System.out.println("Deve pagar a locação");
         }
